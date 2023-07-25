@@ -1,4 +1,4 @@
-# c_matrix_datatype
+## c_matrix_datatype
 
 This library, written by me, adds the matrix_t data type to C. It is a 2D matrix of doubles and includes many operations, such as:
 
