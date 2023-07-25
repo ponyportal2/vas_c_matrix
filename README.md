@@ -33,6 +33,8 @@ To build the library, simply type "make" in the terminal in the project's src fo
 
 The library has unit tests. To run the tests, enter "make test" in the terminal in the src folder of the project (you may need the check library for C). The tests cover all functions and have very high coverage.
 
+The library has been tested and works on Linux, Mac, and WSL.
+
 The library has passed auto-tests at the Programming School 21 of Sber (an analogue of School 42), and the auto-check (as well as my personal tests) included a valgrind test and no leaks were detected.
 
 -----------------------------------------
@@ -69,6 +71,8 @@ The library has passed auto-tests at the Programming School 21 of Sber (an analo
 Для билда библиотеки достаточно написать make в терминале в папке src проекта.
 
 Библиотека имеет юнит-тесты. Для запуска тестов необходимо ввести make test в терминале в src-папке проекта (возможно понадобится библиотека check для С). Тесты покрывают все функции и имеют очень высокое покрытие.
+
+Библиотека протестирована и работает на Linux, Mac и WSL.
 
 Библиотека прошла авто-тесты в Школе программирования 21 от Сбера (аналог Школы 42), авто-проверка (как и мои личные тесты) включала в себя тест на valgrind и ликов не было обнаружено.
 
